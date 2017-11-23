@@ -5,6 +5,8 @@ public class Sales {
 
 	public static void menu(){
 		System.out.println(a);
+		System.out.println("GIRI");
 	}
+
 
 }
