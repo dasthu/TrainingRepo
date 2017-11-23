@@ -7,6 +7,8 @@ public class Sales {
 		System.out.println(a);
 		System.out.println("Raja");
 		
+		System.out.println("GIRI");
 	}
+
 
 }
