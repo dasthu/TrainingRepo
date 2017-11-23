@@ -1,6 +1,10 @@
 package com.Repo.demo;
 
 public class Sales {
-	int[] a={1,2,3,4};
+	static int[] a={1,2,3,4};
+
+	public static void menu(){
+		System.out.println(a);
+	}
 
 }
